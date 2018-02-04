@@ -8,3 +8,4 @@ Disallow:
 #SG1 this line has been added to demonstrare the git pull command
 # some line
 # SG2 try the git push command
+# SG3 push with ssh protocol
